@@ -265,4 +265,3 @@ Every individual correctly grouped, with confidently high match scores.
 
 - **GitHub Repository:**  https://github.com/Harshvish26/FaceIdentificationClusteringSystem
 - **Demo Video:** https://drive.google.com/drive/u/0/folders/1BbO18bPZhg6FkFZCt_ytae--t4fndwEa
-- 
