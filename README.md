@@ -263,5 +263,6 @@ Every individual correctly grouped, with confidently high match scores.
 
 ## Submission Notes
 
-- **GitHub Repository:** contains `face_cluster.py`, `Requirements.txt`, and this `README.md`.
-- **Demo Video:** recommended flow — show the `dataset/` folder of unorganized images, run the command from [Usage](#usage), then walk through the generated `report.html` showing correctly clustered individuals with their confidence scores.
+- **GitHub Repository:**  https://github.com/Harshvish26/FaceIdentificationClusteringSystem
+- **Demo Video:** https://drive.google.com/drive/u/0/folders/1BbO18bPZhg6FkFZCt_ytae--t4fndwEa
+- 
