@@ -4,6 +4,8 @@ A computer vision system that automatically groups unorganized photos of multipl
 
 ## Submission Notes
 
+> **Important:** If the embedded or previous video link is inaccessible, please use the public Google Drive link below.
+
 - **GitHub Repository:**  https://github.com/Harshvish26/FaceIdentificationClusteringSystem
 - **Demo Video:** https://drive.google.com/file/d/1oXUe6YSPCUYiv9FXkMOz09Kv16WhOozw/view?usp=drive_link
 
