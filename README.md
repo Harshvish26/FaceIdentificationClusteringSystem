@@ -2,6 +2,12 @@
 
 A computer vision system that automatically groups unorganized photos of multiple people into per-person clusters — robust to different lighting conditions, camera angles, and facial expressions — and assigns every image a confidence score reflecting how certain the system is about that identity match.
 
+## Submission Notes
+
+- **GitHub Repository:**  https://github.com/Harshvish26/FaceIdentificationClusteringSystem
+- **Demo Video:** https://drive.google.com/file/d/1oXUe6YSPCUYiv9FXkMOz09Kv16WhOozw/view?usp=drive_link
+
+
 Built for the **Computer Vision Engineer — Round 1 Assessment** at [Future of Gaming](https://www.futureofgaming.tech).
 
 ---
@@ -260,8 +266,3 @@ Every individual correctly grouped, with confidently high match scores.
 - **NumPy, Pillow** — array and image handling
 
 ---
-
-## Submission Notes
-
-- **GitHub Repository:**  https://github.com/Harshvish26/FaceIdentificationClusteringSystem
-- **Demo Video:** https://drive.google.com/drive/u/0/folders/1BbO18bPZhg6FkFZCt_ytae--t4fndwEa
