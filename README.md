@@ -231,6 +231,8 @@ The confidence score is **not** the same as face-detection confidence (i.e. "is 
 
 Running on a small 3-person test set:
 
+<img width="697" height="547" alt="image" src="https://github.com/user-attachments/assets/29c9f4e4-2ee6-4f06-a4ae-9c1f38076ef8" />
+
 ```
 ===== SUMMARY =====
 Total faces processed : 6
