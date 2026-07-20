@@ -88,6 +88,7 @@ Given a folder of unorganized images — where the same person may appear multip
 
 ## Project Structure
 
+<img width="383" height="716" alt="image" src="https://github.com/user-attachments/assets/7f94dd25-9431-4cfd-a5a9-ef4654042716" />
 ```
 FaceIdentificationClusteringSystem/
 │
