@@ -41,6 +41,8 @@ Given a folder of unorganized images — where the same person may appear multip
 4. **Scores each photo** with a confidence percentage showing how strongly it matches the identity of its assigned group.
 5. **Outputs** organized folders per person, a CSV report, and an interactive HTML visual report.
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/fa057a45-5b5d-4609-bb55-305b387ff271" />
+
 ---
 
 ## How It Works (Pipeline)
